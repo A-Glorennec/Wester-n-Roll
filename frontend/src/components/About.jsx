@@ -13,7 +13,7 @@ export default function About() {
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus ipsum
         expedita eaque optio, soluta consectetur voluptatem at, dolore corrupti
         odit eveniet porro laborum impedit cum. Deserunt ab iure inventore
-        eaque.
+        eaque.lorem.
       </p>
     </div>
   );
